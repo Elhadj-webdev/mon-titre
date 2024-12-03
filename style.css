@@ -1,0 +1,22 @@
+img{
+    width: 25%;
+}
+body{
+    display: flex;
+    
+   
+}
+
+header
+{
+    height: 1000px;
+    width: 1000px;
+    
+    background-color: aquamarine;
+    
+    
+}
+#photo2{
+    background-color: bisque;
+    width: 70%;
+}
